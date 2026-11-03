@@ -6,4 +6,6 @@ I work on machine learning that has to run fast, using techniques like quantizat
 
 **Subjects:** statistics · machine learning · systems · data science
 
+**Site:** [svishen.dev](https://svishen.dev)
+
 **Email:** svishen@berkeley.edu
